@@ -1,7 +1,7 @@
 {
-    "name": "laravel/telescope",
-    "description": "An elegant debug assistant for the Laravel framework.",
-    "keywords": ["laravel", "monitoring", "debugging"],
+    "name": "tipytechnique/telescope",
+    "description": "Laravel Telescope for Themosis.",
+    "keywords": ["laravel", "monitoring", "debugging", "themosis"],
     "license": "MIT",
     "authors": [
         {
